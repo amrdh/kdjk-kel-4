@@ -49,7 +49,10 @@ Setup Database
 
 ## Cara Pemakaian
 1. Pengguna dapat langsung login untuk memulai aplikasinya
+   ![Login](https://github.com/user-attachments/assets/6136cb8f-0c89-4f20-9b77-17afa9072adc)
+
 2. 
+
 
 
 ## Pembahasan
