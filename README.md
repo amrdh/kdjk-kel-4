@@ -51,7 +51,20 @@ Setup Database
 1. Pengguna dapat langsung login untuk memulai aplikasinya
    ![Login](https://github.com/user-attachments/assets/6136cb8f-0c89-4f20-9b77-17afa9072adc)
 
-2. 
+2. Setelah login pengguna akan langsung masuk ke page asset, memungkinkan pengguna melacak dan menemukan peralatan mereka dengan lebih mudah. Pada page ini pengguna dapat penambahan aset baru dan lokasi yang tepat untuk setiap barang
+   ![Asset tracking](https://github.com/user-attachments/assets/d1abb181-8aee-41a8-b35f-d580981ecd00)
+
+3. Setelah membuat asset baru pada page asset, pengguna mendapat QR untuk setiap aset, sehingga memudahkan identifikasi dan pelacakan.
+   ![Qr code](https://github.com/user-attachments/assets/9ff684cd-007a-449f-8d9e-59362684e779)
+
+4. Selanjutnya pada page categories memungkinkan pengguna untuk mengelompokkan aset ke dalam kategori tertentu, memudahkan pengelolaan dan pencarian.
+   ![Categories](https://github.com/user-attachments/assets/8c456a52-695f-4005-89f8-6c08477b1405)
+
+5. Lalu ada page tags memungkinkan pengguna untuk memberi tag pada aset untuk memudahkan pencarian dan pengelompokan.
+   ![Tags](https://github.com/user-attachments/assets/39022bee-98f4-4d24-a518-510479abc950)
+
+6. Terakhir ada page locations, memungkin pengguna dapat menambahkan dan mengelola lokasi tempat aset disimpan.
+   ![Location](https://github.com/user-attachments/assets/65cbc3ac-e6f8-4461-8a64-50882c08019b)
 
 
 
